@@ -2,7 +2,7 @@
 # Pyone
 
 #### *All basic-python-scripts in one.*
-#### Pyone is a comprehensive repository of various projects and tools related to Machine Learning, Gaming, File Utilities, and Widgets. This resource is intended for those looking to discover new projects, as well as for developers looking to share their own work or contribute to the repository. It is a valuable resource for both project seekers and developers looking to make their mark.
+Pyone is a comprehensive repository of various projects and tools related to Machine Learning, Gaming, File Utilities, and Widgets. This resource is intended for those looking to discover new projects, as well as for developers looking to share their own work or contribute to the repository. It is a valuable resource for both project seekers and developers looking to make their mark.
 #### ***A single repository for:***
 >- ***Contribution***
 >- ***Education***
