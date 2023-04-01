@@ -32,7 +32,7 @@ def play_gambling_game():
             print("It's a tie!")
         else:
             print("You lost\n", -winnings, "credits!")
-
+    print('You lost all of your money.')
 
 # Start the game
 play_gambling_game()
